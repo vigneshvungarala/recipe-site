@@ -1,0 +1,42 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+.main{
+    background: linear-gradient(rgba(255, 0, 0, 0.255),rgba(0, 128, 0, 0.211));
+    display:flex;
+    flex-direction: row;
+    height: 195vh;
+    align-items: center;
+   justify-content: center;
+   margin:0px;
+}
+img{
+    width:100%;
+}
+.card{
+   background-color: aliceblue;
+   width:700px;
+   height: 1250px;
+   display:flex;
+   flex-direction: column;
+   padding:20px;
+   border-radius: 20px;
+}
+.preptime{
+    background-color: rgba(251, 205, 212, 0.358);
+    padding-left: 20px;
+}
+h3{
+    color:rgb(215, 102, 215);
+}
+h2{
+    color: rgba(199, 81, 81, 0.874);
+}
+.ingred{
+   border-bottom: 2px solid rgba(0, 0, 0, 0.14);
+}
+.heading{
+    padding-left: 10px;
+}
+.inst{
+    border-bottom: 2px solid rgba(0, 0, 0, 0.14);
+}
